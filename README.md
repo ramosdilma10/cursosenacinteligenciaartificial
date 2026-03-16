@@ -1,1 +1,1 @@
-# cursosenacinteligenciaartificial
+# curso senac inteligencia artificial
